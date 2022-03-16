@@ -15,5 +15,5 @@ redirect_from:
 
 ### G'day, mate!
 
-I'm Yuxuan, an undergraduate student doing Bachelor of Information Technology at the Australian National Unversity. I'm also an avid photographer.
+I'm Yuxuan, an undergraduate student doing Bachelor of Information Technology at the Australian National University. I'm also an avid photographer.
 
