@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-![HKSelfie](/Users/ylin/IdeaProjects/itsyuxuan.github.io/images/HKSelfie.jpeg)
+![HKSelfie](images/HKSelfie.jpeg)
 
 
 
