@@ -12,11 +12,7 @@ redirect_from:
 # Education
 
 - Undergraduate (02.2019 - 12.2022)
-  - B. Information Technology, [Australian National University](https://www.anu.edu.au/), 2022
-
-# Work experience
-
-- To be updated...
+  - B. Information Technology, [Australian National University](https://www.anu.edu.au/)
 
 # Skills
 
@@ -27,12 +23,19 @@ redirect_from:
   - Vue, Vite, Pinia
   - NumPy, Git, LaTeX
 - Language
-  - English (Fluent), Madarian (Native)
+  - Madarian (Native)
+  - English (Fluent)
 
-# Service and leadership
+# Service & Experience
 
-- Summer 2018: Education Volunteer
-  - Location: Wattala, Sri Lanka
-  - Non-Profit Organization: Child Education Development
-  - Duties included: Providing help and support in teaching English, Maths and Information Technology to some less-privileged and vulnerable children in Wattala, where there are no resources available like in the city schools.
-  - Contributed 96 hours of international volunteering.
+- Education Volunteer in Sri Lanka (Summer 2018)
+
+  - Provide help and support in teaching English, Maths and IT skills to less-privileged children in Wattala, Sri Lanka.
+  - Contribute to 96 hours of international volunteering.
+
+- Cross Institutional Study at Shanghai Jiao Tong University (12.2019 - 01.2020)
+  - Summer school coursework in CS.
+
+# Work Experience
+
+- To be updated...
