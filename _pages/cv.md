@@ -28,13 +28,12 @@ redirect_from:
 
 # Service & Experience
 
-- Education Volunteer in Sri Lanka (Summer 2018)
-
-  - Provide help and support in teaching English, Maths and IT skills to less-privileged children in Wattala, Sri Lanka.
-  - Contribute to 96 hours of international volunteering.
-
 - Cross Institutional Study at Shanghai Jiao Tong University (12.2019 - 01.2020)
   - Summer school coursework in CS.
+
+- Education Volunteer in Wattala, Sri Lanka (Summer 2018)
+  - Provide help and support by teaching English, Maths and IT skills to children in need.
+  - Contribute to 96 hours of international volunteering.
 
 # Work Experience
 
