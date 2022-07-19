@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 - Undergraduate (02.2019 - 12.2022)
-  - B. Information Technology, [Australian National University](https://www.anu.edu.au/)
+  - Bachelor of Information Technology, The Australian National University
 
 # Skills
 
