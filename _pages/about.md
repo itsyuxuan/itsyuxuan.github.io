@@ -15,9 +15,9 @@ redirect_from:
 
 It's Yuxuan here!
 
-I'm pursuing a Bachelor of Information Technology degree at The Australian National University.
+I will be graduating with a B.InfTech degree by the end of 2022.
 
-I'm also an avid photographer and traveler. 
+I am also an avid photographer and traveler. 
 
 I have captured the stunning Star Trails above the Parliament House in Canberra, the dazzling Milky Way in the middle of New South Wales, and the Aurora Australis in Tasmania. 
 
