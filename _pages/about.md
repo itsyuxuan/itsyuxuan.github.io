@@ -21,4 +21,4 @@ I am also an avid photographer and traveler.
 
 I have captured the stunning Star Trails above the Parliament House in Canberra, the dazzling Milky Way in the middle of New South Wales, and the Aurora Australis in Tasmania. 
 
-Such a favour encourages me to become a front-end developer, as I can pursue beauty by designing and implementing interfaces for websites and applications.
+Such a favour encourages me to become a frontend developer, as I can pursue beauty by designing and implementing interfaces for websites and applications.
