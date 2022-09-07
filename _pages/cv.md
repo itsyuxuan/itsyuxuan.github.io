@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,11 +17,11 @@ redirect_from:
 # Skills
 
 - Programming Language
-  - JavaScript, TypeScript, HTML, CSS
+  - JavaScript, ECMAScript 6, HTML, CSS
   - Python, Java, Assembly (ARMv7), SQL
 - Tool
-  - Vue, Vite, Pinia
-  - NumPy, Git, LaTeX
+  - Vue 3, Vite, Rollup
+  - NumPy, LaTeX, Git, npm
 - Language
   - Madarian (Native)
   - English (Fluent)
@@ -32,7 +32,7 @@ redirect_from:
   - Summer school coursework in CS.
 
 - Education Volunteer in Wattala, Sri Lanka (Summer 2018)
-  - Provide help and support by teaching English, Maths and IT skills to children in need.
+  - Provide help and support by teaching needy children English, Maths and IT skills.
   - Contribute to 96 hours of international volunteering.
 
 # Work Experience
