@@ -12,12 +12,12 @@ redirect_from:
 
 ## G’day mate! How ya goin'? 👋
 
-It's Yuxuan here!
+I'm Yuxuan Lin. Feel free to call me Jasper.
 
-I hold a Bachelor of Information Technology from the Australian National University and am pursuing a Master of Information Technology degree at the University of Sydney.
+I graduated with a Bachelor's degree in Computer Science from the Australian National University in December 2022, and I'm currently pursuing a Master's degree in Software Engineering at the University of Sydney.
 
-As an avid photographer and traveller, I have captured the stunning Star Trails above the Parliament House in Canberra, the dazzling Milky Way in the middle of New South Wales, and the Aurora Australis in Tasmania.
+As an enthusiastic photographer and traveller, I've captured stunning star trails above the Parliament House in Canberra, the dazzling Milky Way in the heart of New South Wales, and the Aurora Australis in Tasmania.
 
-Such a favour encourages me to become a front-end developer, as I can pursue beauty by designing and implementing interfaces for websites and applications.
+This passion for capturing beauty has led me to pursue a career in front-end development, where I can design and implement interfaces for websites and applications.
 
 My front-end skills include languages like JavaScript, ECMAScript 6, HTML, and CSS and frameworks/tools like Vue 3, Vite, Rollup, Git, and npm.
