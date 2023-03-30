@@ -20,7 +20,7 @@ redirect_from:
 # Skills
 
 - Programming Languages
-  - JavaScript, ECMAScript 6, HTML, CSS
+  - JavaScript ES6, HTML, CSS
   - Python, Java, Assembly (ARMv7), SQL
 - Tools
   - Vue 3, Vite, Rollup
@@ -45,7 +45,7 @@ redirect_from:
 
 # Activities
 
-- Project Leader in ByteDance Youth Camp (07 2022 - 08 2022)
+- Project Leader in ByteDance Youth Camp (07.2022 - 08.2022)
   - Coordinate the tech stacks of a team of 5, determine the project architecture, manage the GitHub organisation of 4 repositories, schedule regular meetings for synchronising work, review code quality and ﬁx issues, release npm packages and deploy sites, and present a project defence.
   - Win an award for the front-end monitoring project.
 

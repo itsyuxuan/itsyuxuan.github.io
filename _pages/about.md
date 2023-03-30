@@ -20,4 +20,4 @@ As an enthusiastic photographer and traveller, I've captured stunning star trail
 
 This passion for capturing beauty has led me to pursue a career in front-end development, where I can design and implement interfaces for websites and applications.
 
-My front-end skills include languages like JavaScript, ECMAScript 6, HTML, and CSS and frameworks/tools like Vue 3, Vite, Rollup, Git, and npm.
+My front-end skills include languages like JavaScript ES6, HTML, and CSS and frameworks/tools like Vue 3, Vite, Rollup, Git, and npm.
