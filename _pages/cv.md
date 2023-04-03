@@ -11,10 +11,10 @@ redirect_from:
 
 # Education
 
-- The University of Sydney (Expected 10.2024)
+- University of Sydney (Expected 10.2024)
   - Master of Information Technology, Software Engineering
 
-- The Australian National University (02.2019 - 12.2022)
+- Australian National University (02.2019 - 12.2022)
   - Bachelor of Information Technology, Computer Science
 
 # Skills
