@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'YLin.me'
+title: 'Yuxuan Lin (Jasper)'
 title_separator: '-'
 name: &name 'Yuxuan Lin (Jasper)'
 description: &description "I'm Yuxuan Lin (Jasper), a software engineering student at USYD and recent computer science graduate from ANU, seeking a software dev role."
