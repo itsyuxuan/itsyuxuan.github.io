@@ -10,7 +10,7 @@ locale: 'en-US'
 title: 'Yuxuan Lin'
 title_separator: '-'
 name: &name 'Yuxuan Lin'
-description: &description 'personal website'
+description: &description 'I'm Yuxuan (Jasper) Lin, a software engineering student at USYD and recent computer science graduate from ANU, seeking a software dev role.'
 url: https://itsyuxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
 repository: 'itsyuxuan.github.io'
