@@ -9,6 +9,7 @@
 locale: 'en-US'
 title: 'Yuxuan Lin (Jasper)'
 title_separator: '-'
+masthead_title: 'YLin.me'
 name: &name 'Yuxuan Lin (Jasper)'
 description: &description "I'm Yuxuan Lin (Jasper), a software engineering student at USYD and recent computer science graduate from ANU, seeking a software dev role."
 url: https://itsyuxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
