@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Haskell](images/Haskell.jpeg)
+![Hong Kong](images/Hong-Kong.jpeg)
 
 ## G’day mate! How ya goin'? 👋
 
