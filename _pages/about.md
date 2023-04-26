@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Hong Kong](images/Hong-Kong.jpeg)
+![Hong Kong](images/Hong-Kong.JPG)
 
 ## G’day mate! How ya goin'? 👋
 
