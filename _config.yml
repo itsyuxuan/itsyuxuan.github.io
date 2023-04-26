@@ -7,11 +7,11 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'Yuxuan Lin (Jasper)'
+title: 'Jasper Y. Lin'
 title_separator: '-'
 masthead_title: 'YLin.me'
-name: &name 'Yuxuan Lin (Jasper)'
-description: &description "I'm Yuxuan Lin (Jasper), a software engineering student at USYD and recent computer science graduate from ANU, seeking a software dev role."
+name: &name 'Jasper Y. Lin'
+description: &description "personal website"
 url: https://itsyuxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
 repository: 'itsyuxuan.github.io'
@@ -79,8 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name: 'Yuxuan Lin'
-  preferred_name: 'Jasper'
+  name: 'Jasper Y. Lin'
   avatar: 'profile.png'
   bio: 'Front-End Developer'
   location: 'Sydney NSW'
