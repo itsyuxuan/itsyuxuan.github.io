@@ -7,10 +7,10 @@
 
 # Site Settings
 locale: 'en-US'
-title: 'Jasper Y. Lin'
+title: 'Yuxuan (Jasper) Lin'
 title_separator: '-'
 masthead_title: 'YLin.me'
-name: &name 'Jasper Y. Lin'
+name: &name 'Yuxuan (Jasper) Lin'
 description: &description "personal website"
 url: https://itsyuxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name: 'Jasper Y. Lin'
+  name: 'Yuxuan (Jasper) Lin'
   avatar: 'profile.png'
   bio: 'Front-End Developer'
   location: 'Sydney NSW'
@@ -101,7 +101,7 @@ author:
   instagram: 'ylin.me'
   impactstory:
   lastfm:
-  linkedin: 'jasper-yuxuan-lin-102826172'
+  linkedin: 'yuxuan-jasper-lin-102826172'
   orcid:
   pinterest:
   soundcloud:
