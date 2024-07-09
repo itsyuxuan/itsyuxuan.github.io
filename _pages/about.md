@@ -10,14 +10,19 @@ redirect_from:
 
 ![Hong Kong](images/Hong-Kong.JPG)
 
-## G’day mate! How ya goin'? 👋
+## G'day! I'm Jasper. 👋
 
-I'm Yuxuan Lin. Feel free to call me Jasper.
+I recently completed my Master of Information Technology in Software Engineering from the University of Sydney in June 2024, with a focus on full-stack development and software quality. Prior to that, I graduated with a Bachelor of Information Technology in Computing from the Australian National University in December 2022.
 
-I graduated with a Bachelor's degree in Computer Science from the Australian National University in December 2022, and I'm currently pursuing a Master's degree in Software Engineering at the University of Sydney.
+As a passionate software developer, I enjoy crafting elegant solutions to complex problems. My technical skills include:
 
-As an enthusiastic photographer and traveller, I've captured stunning star trails above the Parliament House in Canberra, the dazzling Milky Way in the heart of New South Wales, and the Aurora Australis in Tasmania.
+- JavaScript, Python, HTML/CSS, React, Node.js, SQL, Java, OOP
+- Data Structures, Algorithms, Data Analytics, Data Visualization
+- Git, Jira, Agile Scrum, UI/UX Design & Evaluation, Figma
+- Microsoft Office, IT Project Management, Communication, Report Writing
 
-This passion for capturing beauty has led me to pursue a career in front-end development, where I can design and implement interfaces for websites and applications.
+I have applied these skills in several projects, such as developing a full-stack mineral communication platform (GeoDesk), creating a front-end web vitals monitoring service (Vitegil), and building an AI-powered career development platform (Career AI+).
 
-My front-end skills include languages like JavaScript ES6, HTML, and CSS and frameworks/tools like Vue 3, Vite, Rollup, Git, and npm.
+When I'm not coding, you can find me exploring the great outdoors with my camera. I've captured breathtaking star trails above the Parliament House in Canberra, the mesmerizing Milky Way in the heart of New South Wales, and the ethereal Aurora Australis in Tasmania. Photography has taught me the importance of attention to detail, creativity, and patience - qualities that I bring to my work as a software engineer.
+
+I'm excited to leverage my technical expertise and passion for problem-solving to create impactful software solutions. If you're interested in collaborating on a project or just want to chat about the latest web development trends, feel free to reach out!

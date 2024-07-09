@@ -9,7 +9,7 @@
 locale: 'en-US'
 title: 'Yuxuan (Jasper) Lin'
 title_separator: '-'
-masthead_title: 'YLin.me'
+masthead_title: 'itsyuxuan'
 name: &name 'Yuxuan (Jasper) Lin'
 description: &description "personal website"
 url: https://itsyuxuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,10 +98,10 @@ author:
   github: 'itsyuxuan'
   google_plus:
   keybase:
-  instagram: 'ylin.me'
+  instagram: 'jasperlin0229'
   impactstory:
   lastfm:
-  linkedin: 'yuxuan-jasper-lin-102826172'
+  linkedin: 'jasper-yuxuan-lin'
   orcid:
   pinterest:
   soundcloud:
