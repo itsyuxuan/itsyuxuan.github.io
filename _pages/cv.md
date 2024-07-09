@@ -51,6 +51,9 @@ redirect_from:
 
 # Activities
 
+- Student Volunteer, Sydney University Postgraduate Representative Association (SUPRA) (Jul 2023 - Aug 2023)
+  - Operated a stall during Orientation Week to introduce SUPRA services to postgraduate students and encourage new registrations.
+  - Contributed to fostering a sense of belonging and support within the diverse student community.
 - Project Leader, ByteDance Youth Camp (Jul 2022 - Aug 2022)
   - Led a team of 5 as the project leader for "Vitegil", an award-winning web monitoring system in the event.
   - Applied Agile Scrum, managed 4 GitHub repositories, built CI/CD pipelines, maintained overall code quality.
